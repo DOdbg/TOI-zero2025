@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.txt
+*.out
